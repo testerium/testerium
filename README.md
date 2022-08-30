@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
 🔭 I am currently working on Frontend Mentor challenges using HTML, CSS, SCSS, JavaScript and Responsive Web Design based on designs in Figma.<br>
-👯 Over the last 4 months of self-study, I have <strong>completed about 30 projects</strong> in front-end technologies.<br>
+👯 Over the last 6 months of self-study, I have <strong>completed about 30 projects</strong> in front-end technologies.<br>
 🌱 I’m currently learning JavaScript and still developing my coding skills.<br>
-⚡ My goal is to develop my career into a <strong>Junior Front-end Developer</strong>/<strong>Content Publisher</strong>.<br>
+⚡ My goal is to develop my career into a <strong>Junior Front-end Developer</strong> or <strong>Web/Content Publisher</strong>.<br>
 
 ### About me:
 
